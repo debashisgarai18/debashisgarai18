@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Debashis Garai</h1>
-<h3 align="center">Software Engineer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashisgarai18&label=Profile%20views&color=0e75b6&style=flat" alt="debashisgarai18" /> </p>
 
