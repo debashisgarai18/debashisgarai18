@@ -1,17 +1,17 @@
-<h1 align="center">Hi There 👋, I'm Debashis Garai</h1>
+<h1 align="center">This is Debashis Garai</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashisgarai18&label=Profile%20views&color=0e75b6&style=flat" alt="debashisgarai18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deba018_" target="blank"><img src="https://img.shields.io/twitter/follow/deba018_?logo=twitter&style=for-the-badge" alt="deba018_" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS + TypeScript**
+- 🌱 I’m currently learning **ReactJS + TypeScript + Backend**
 
-- 💬 Ask me about **DSA, Frontend (HTML, CSS, JS, React), ML**
+- 💬 Ask me about **DSA, Frontend (HTML, CSS, JS, React, TS), Backend (MongoDb, ExpressJS, NodeJS), DevOps (Docker, AWS), ML**
 
 - 📫 How to reach me **debashis.garai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j78vPrCJ389Bp2wuy53uuwrK2yvSgaZd/view?usp=drive_link](https://drive.google.com/file/d/1j78vPrCJ389Bp2wuy53uuwrK2yvSgaZd/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hcueQVSxv_tTsFiu3DdDCK5cB5EzEQDW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
