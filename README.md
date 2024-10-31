@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Frontend (HTML, CSS, JS, React, TS), Backend (MongoDb, ExpressJS, NodeJS), DevOps (Docker, AWS), ML**
 
-- 📫 How to reach me **debashis.garai@gmail.com**
+- 📫 How to reach me **debashis1805@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hcueQVSxv_tTsFiu3DdDCK5cB5EzEQDW/view?usp=sharing)
 
