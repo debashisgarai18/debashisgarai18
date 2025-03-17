@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debashis1805@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1hcueQVSxv_tTsFiu3DdDCK5cB5EzEQDW/view?usp=sharing](https://drive.google.com/file/d/1ZgQrXfTcfjaI1-E4b1a6i5rh_omShir8/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZgQrXfTcfjaI1-E4b1a6i5rh_omShir8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
