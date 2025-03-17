@@ -1,5 +1,5 @@
 <h1 align="left">Debashis Garai</h1>
-<h3 align="left">SWE @Wipro</h3>
+<h3 align="left">SWE @Accenture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashisgarai18&label=Profile%20views&color=0e75b6&style=flat" alt="debashisgarai18" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debashis1805@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hcueQVSxv_tTsFiu3DdDCK5cB5EzEQDW/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1hcueQVSxv_tTsFiu3DdDCK5cB5EzEQDW/view?usp=sharing](https://drive.google.com/file/d/1ZgQrXfTcfjaI1-E4b1a6i5rh_omShir8/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
