@@ -1,31 +1,84 @@
-<h1 align="left">Debashis Garai</h1>
-<h3 align="left">SWE @Accenture</h3>
+<html>
+<br />
+<h1 align="center">Hi, 👋 I'm Debashis Garai</h1>
+<h3 align="center">A Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debashisgarai18&label=Profile%20views&color=0e75b6&style=flat" alt="debashisgarai18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr4nj41&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nj41" /> </p>
+<br />
+<br />
 
-<p align="left"> <a href="https://twitter.com/deba018_" target="blank"><img src="https://img.shields.io/twitter/follow/deba018_?logo=twitter&style=for-the-badge" alt="deba018_" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS + TypeScript + Backend**
+<br />
 
-- 💬 Ask me about **DSA, Frontend (HTML, CSS, JS, React, TS), Backend (MongoDb, ExpressJS, NodeJS), DevOps (Docker, AWS), ML**
-
-- 📫 How to reach me **debashis1805@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZgQrXfTcfjaI1-E4b1a6i5rh_omShir8/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deba018_" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/x-logo-9762325-7941270.png?f=webp&w=256" alt="deba018_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deba018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deba018/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dg18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dg18/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/deba18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/deba18" height="30" width="40" /></a>
+## 👉 About Me
+<p align="justify">
+  <samp>
+    I am a versatile full-stack engineer with expertise in TypeScript, ReactJS, Next.js, and Node.js, complemented by proficiency in Python and Go. With a strong foundation in HTML, CSS, and modern frameworks, I specialize in building scalable, high-performance web applications. My experience spans across cloud platforms like AWS, and I actively incorporate DevOps practices to streamline development and deployment processes.
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashisgarai18&show_icons=true&locale=en&layout=compact" alt="debashisgarai18" /></p>
+## 👉 My Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debashisgarai18&show_icons=true&locale=en" alt="debashisgarai18" /></p>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=debashisgarai18&count_private=true&show_icons=true&theme=react&rank_icon=github&include_all_commits=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=debashisgarai18&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=debashisgarai18&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debashisgarai18&" alt="debashisgarai18" /></p>
+<h2><b>💻 Tech Stack</b></h2>
+<!-- <br/>
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50"/></code>&nbsp;</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50"/></code>&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/></code>&nbsp;</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/></code>&nbsp;</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/></code>&nbsp;</a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="50"/></code>&nbsp;</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="50"/></code>&nbsp;</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/></code>&nbsp;</a>
+</p>
+<p align="center">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/></code>&nbsp;</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/></code>&nbsp;</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></code>&nbsp;</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></code>&nbsp;</a>
+</p>
+ -->
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+<p align="center">
+
+</p>
+</br>
+<br/>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashisgarai18&show_icons=true&locale=en&layout=compact" alt="debashis" />
+</p>
+<br/>
+<br />
+
+<h3 align="center"><b><u>Connect with me</u></b></h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/deba018" target="blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</p>
+
+<p align="center">
+  
+  <!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PR4NJ41&textBg=false&descAlign=75&fontAlign=50&animation=twinkling&fontSize=20"/>-->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=gradient&section=footer&descAlign=59&descAlignY=61"/>
+  
+</p>
+
+</HTML>
