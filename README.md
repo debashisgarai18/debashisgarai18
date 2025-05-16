@@ -1,14 +1,10 @@
 <html>
-<br />
-<h1 align="center">Hi, 👋 I'm Debashis Garai</h1>
-<h3 align="center">A Software Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Debashis+Garai;Software+Developer💻">
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr4nj41&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nj41" /> </p>
-<br />
-<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=debashisgarai18&label=Profile%20views&color=0e75b6&style=flat" alt="debashis" /> </p>
 
-
-<br />
 
 ## 👉 About Me
 <p align="justify">
